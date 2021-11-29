@@ -1,2 +1,2 @@
 # Color-Flipper
-Color Flipper is random color genrator which basically changes the background color of a body by chnaging the rgb values whenever you click on the change button.🔴🟢🔵
+Color Flipper is a random color generator which basically changes the background color of a body by changing the rgb values whenever you click on the change button.🔴🟢🔵
